@@ -4,12 +4,12 @@
 **Project overview:**<br>
 **Title:** Call Log Access app using Flutter<br>
 **Introduction :**
-As the mobile technology advances , it is essential to create the applications that enhance user experience .One such application that can be beneficial is a Call Log Access App , developed using Flutter Framework.This app ensures the users to access and manage their call logs efficiently .
+As the mobile technology advances , it is essential to create the applications that enhance user experience .One such application that can be beneficial is a Call Log Access App , developed using Flutter Framework.This app ensures the users to access and manage their call logs efficiently .<br>
 **Setting up the Development Environment :** <br>
-<h3>To build a Call log Acess App -
+ To build a Call log Acess App -
  1. Install Flutter  and Dart SDK on your System .
  2.Install Android Studio to set the development environment.
- 3.Configure IDE , such as Visual Studio Code
+ 3.Configure IDE , such as Visual Studio Code.<br>
 **Technical Aspects required  :** <br>
 **Flutter Framework:** <br>
 Flutter , developed by Google , is an open source UI software development toolkit.It is wideley used for creating natively compiled applications for mobile , web and desktop from a single codebase .Flutter's hot reload feature allows developers to experiment, build UIs , add features and fix bugs faster .<br> 
